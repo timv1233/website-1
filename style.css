@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+} 
+
+header {
+padding: 15px;
+border: 2px solid rgb(75, 208, 234);
+border-radius: 9px;
+background-color: coral;
+}
+
+h1{color: ;}
